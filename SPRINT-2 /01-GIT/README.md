@@ -1,0 +1,9 @@
+local
+remote
+init
+clone
+add
+commit
+push
+pull
+merge
